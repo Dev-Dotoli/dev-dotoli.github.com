@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Dev-dotoli Blog
+url: https://dev-dotoli.github.io/
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -41,8 +41,11 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
+  - title: Html/CSS
+    url: /html
 
   - title: About
     url: /about
+
+  - title: Archive
+    url: /Archive
