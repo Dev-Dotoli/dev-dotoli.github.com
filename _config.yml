@@ -41,11 +41,5 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Html/CSS
-    url: /html
-
   - title: Archive
     url: /archive
-
-  - title: About
-    url: /about
