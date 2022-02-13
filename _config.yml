@@ -43,5 +43,6 @@ version: 3.0.0
 nav:
   - title: Archive
     url: /archive
-  - title: References
-    url: /references
+
+  - title: Manual
+    url: /manual
