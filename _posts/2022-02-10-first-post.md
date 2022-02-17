@@ -26,15 +26,15 @@ title: First post
 
 ```
 
-body {
-  border: 5px solid rgb(55, 165, 40);
-  margin: 10px 20px 30px 40px;
-  padding: 10px 20px 30px 40px;
-}
-.main-frame {
-  border: 5px solid rgb(214, 140, 71);
-  width: 140px;
-  height: 25px;
-}
+        body {
+        border: 5px solid rgb(55, 165, 40);
+        margin: 10px 20px 30px 40px;
+        padding: 10px 20px 30px 40px;
+        }
+        .main-frame {
+        border: 5px solid rgb(214, 140, 71);
+        width: 140px;
+        height: 25px;
+        }
 
 ```
