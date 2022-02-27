@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CSS 3
+title: CSS 3 background
 ---
 
 ---

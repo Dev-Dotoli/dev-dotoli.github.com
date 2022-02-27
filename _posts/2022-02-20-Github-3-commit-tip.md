@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github 3 commit
+title: Github 3 commit tip
 ---
 
 ---

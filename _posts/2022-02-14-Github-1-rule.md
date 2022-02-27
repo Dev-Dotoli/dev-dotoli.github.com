@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github 1
+title: Github 1 rule
 ---
 
 ---
