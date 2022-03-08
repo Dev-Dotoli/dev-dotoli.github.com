@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github 7
+title: Github 7 manual
 ---
 
 <br><br>

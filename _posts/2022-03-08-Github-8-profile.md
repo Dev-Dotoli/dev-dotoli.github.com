@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github 8
+title: Github 8 profile
 ---
 
 <br><br>
