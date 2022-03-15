@@ -276,7 +276,7 @@ button:last-child {
 
 <br><br>
 
-### Refernce
+### Refernces
 
 [이번에야말로 CSS Grid를 익혀보자 - 1분코딩](https://studiomeal.com/archives/533)
 <https://developer.mozilla.org/ko/docs/Web/CSS/:nth-child>
