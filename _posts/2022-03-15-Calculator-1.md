@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calculator
+title: Calculator 1
 ---
 
 <br><br>
