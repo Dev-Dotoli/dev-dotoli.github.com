@@ -38,7 +38,7 @@ github에 Pages라는 기능으로 Repository에 올려둔 내용을
     ```
 
   - ```bash
-      git config user.name 이름<br>
+      git config user.name 이름
       git config user.email 메일 입력
       (git config --list로 확인)
 
