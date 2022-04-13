@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JS 19 funcrion2 callback
+title: JS 20 funcrion2 callback
 ---
 
 <br><br>
