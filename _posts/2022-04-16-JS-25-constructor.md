@@ -15,6 +15,13 @@ JS는 Prototype-based programming 카테고리에 속해있음
 
 이런면이 지금 가장 대중적인 언어로 JS를 꼽는 이유라고 생각함
 
+- Prototype-based programming<br>
+  prototype(원형) 기반 언어<br>
+  JS의 모든 객체는 부모역할의 객체와 연결되어있음<br>
+  객체 지향의 상속개념과 같이 부모객체의 property나<br>
+  method를 상속받아 사용할 수 있음<br>
+  이런 부모객체 = Prototype
+
 <br>
 
 - constructor<br>
