@@ -61,12 +61,12 @@ const person = {};
 //객체를 생성하고
 
 person.name = "dotoli";
-//name이라는 property에 "egoing"을 담음
+//name이라는 property에 "dotoli"를 담음
 
 person.introduce = function () {
   return "My name is " + this.name;
 };
-//introduve라는 property에 함수를 담음
+//introduce라는 property에 함수를 담음
 //함수를 담으면 method
 
 document.write(person.introduce());
