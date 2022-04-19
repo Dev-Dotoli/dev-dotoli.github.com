@@ -25,7 +25,7 @@ inheritance는 object의 logic을 그대로 물려받는<br>
 
 ### 사용방법
 
-상속 자체를 해보기 위해서 이번 강의에서는 복제만
+상속 자체를 해보기 위해서 이번 여기서는 복제만
 
 ```javascript
 function Person(name) {
