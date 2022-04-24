@@ -10,7 +10,8 @@ title: Github 7 blog manual
 <br><br>
 
 img 링크(웹호스팅)<br>
-`![이름](주소 https://ifh.cc/g/lmpoL9.jpg)`
+`![이름](주소)`<br>
+`![img123]( https://ifh.cc/g/lmpoL9.jpg)`
 
 <br><br><br>
 url 링크(주소로보임)
