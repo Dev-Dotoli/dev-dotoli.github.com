@@ -7,8 +7,6 @@ title: inf 7 userscript
 
 ## WEB service
 
-demo4.html
-
 <br><br>
 
 폼 입력 대신하기
