@@ -13,7 +13,7 @@ title: React team repo
 
 <br>
 
-#### w1 day18
+#### w3 day18
 
 <br><br>
 
